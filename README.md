@@ -1,1 +1,2 @@
 # Online-Book-Shop
+This is a project done for the course "System Analysis and Design" of my University. This project displays a website through which customers can create an account and search for books they would like to purchase. They can also report any issues they are facing regarding the website. The option to add a payment gateway option was not completed and thus this functionality according to our project plan is yet to be added.
